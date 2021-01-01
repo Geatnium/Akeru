@@ -1,4 +1,7 @@
 # 「開けたら人がいる」がゲームでも一番怖い説ぅ〜
+Unity1週間ゲームジャム お題「あける」 投稿作品  
+  
+↓ ここで遊べます。  
 [配信ページ](https://unityroom.com/games/aketara_hito_ga_iru)
 
 ## 使用アセット
